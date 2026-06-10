@@ -1,0 +1,8 @@
+{"time":"2026-05-20T17:31:28.922346298+08:00","level":"INFO","msg":"wandb-core"}
+{"time":"2026-05-20T17:31:28.922417638+08:00","level":"INFO","msg":"stream: starting","core version":"0.26.1"}
+{"time":"2026-05-20T17:31:29.418497828+08:00","level":"WARN","msg":"featurechecker: GraphQL client is nil, skipping feature loading"}
+{"time":"2026-05-20T17:31:29.418524987+08:00","level":"WARN","msg":"featurechecker: GraphQL client is nil, skipping feature loading"}
+{"time":"2026-05-20T17:31:29.418592011+08:00","level":"INFO","msg":"stream: created new stream","id":"ppo_Qwen3_VL_4B_Instruct_sokoban_v1"}
+{"time":"2026-05-20T17:31:29.418641147+08:00","level":"INFO","msg":"handler: started"}
+{"time":"2026-05-20T17:31:29.670649741+08:00","level":"INFO","msg":"stream: started"}
+{"time":"2026-05-20T17:31:29.670761015+08:00","level":"INFO","msg":"sender: started"}

@@ -1,0 +1,13 @@
+{"time":"2026-06-09T18:09:02.686285945+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.1"}
+{"time":"2026-06-09T18:09:02.789471056+08:00","level":"WARN","msg":"featurechecker: GraphQL client is nil, skipping feature loading"}
+{"time":"2026-06-09T18:09:02.789556345+08:00","level":"INFO","msg":"stream: created new stream","id":"merged_ppo_Qwen3_4B_Instruct_Qwen3_1.7B_webshop_small"}
+{"time":"2026-06-09T18:09:02.78960989+08:00","level":"INFO","msg":"handler: started","stream_id":"merged_ppo_Qwen3_4B_Instruct_Qwen3_1.7B_webshop_small"}
+{"time":"2026-06-09T18:09:02.790442946+08:00","level":"INFO","msg":"stream: started","id":"merged_ppo_Qwen3_4B_Instruct_Qwen3_1.7B_webshop_small"}
+{"time":"2026-06-09T18:09:02.790452558+08:00","level":"INFO","msg":"writer: started","stream_id":"merged_ppo_Qwen3_4B_Instruct_Qwen3_1.7B_webshop_small"}
+{"time":"2026-06-09T18:09:02.790477497+08:00","level":"INFO","msg":"sender: started","stream_id":"merged_ppo_Qwen3_4B_Instruct_Qwen3_1.7B_webshop_small"}
+{"time":"2026-06-09T18:09:02.791102797+08:00","level":"WARN","msg":"runupserter: server does not expand metric globs but the x_server_side_expand_glob_metrics setting is set; ignoring"}
+{"time":"2026-06-09T18:09:03.013822399+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-06-09T18:09:03.018408121+08:00","level":"INFO","msg":"stream: closing","id":"merged_ppo_Qwen3_4B_Instruct_Qwen3_1.7B_webshop_small"}
+{"time":"2026-06-09T18:09:03.018448636+08:00","level":"INFO","msg":"handler: closed","stream_id":"merged_ppo_Qwen3_4B_Instruct_Qwen3_1.7B_webshop_small"}
+{"time":"2026-06-09T18:09:03.018638078+08:00","level":"INFO","msg":"sender: closed","stream_id":"merged_ppo_Qwen3_4B_Instruct_Qwen3_1.7B_webshop_small"}
+{"time":"2026-06-09T18:09:03.018667738+08:00","level":"INFO","msg":"stream: closed","id":"merged_ppo_Qwen3_4B_Instruct_Qwen3_1.7B_webshop_small"}

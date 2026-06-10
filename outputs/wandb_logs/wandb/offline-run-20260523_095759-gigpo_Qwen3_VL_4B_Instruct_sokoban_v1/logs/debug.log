@@ -1,0 +1,4 @@
+2026-05-23 09:58:00,440 INFO    MainThread:400083 [wandb_setup.py:_flush():81] Current SDK version is 0.26.1
+2026-05-23 09:58:00,440 INFO    MainThread:400083 [wandb_setup.py:_flush():81] Configure stats pid to 400083
+2026-05-23 09:58:00,440 INFO    MainThread:400083 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-05-23 09:58:00,440 INFO    MainThread:400083 [wandb_init.py:setup_run_log_directory():723] Logging user logs to /mnt/shared-storage-user/evobox-share/songfan/project/verl-agent-master/outputs/wandb_logs/wandb/offline-run-20260523_095759-gigpo_Qwen3_VL_4B_Instruct_sokoban_v1/logs/debug.log

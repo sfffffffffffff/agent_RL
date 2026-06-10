@@ -1,0 +1,20 @@
+2026-06-09 17:39:07,488 INFO    MainThread:1089912 [wandb_init.py:setup_run_log_directory():723] Logging user logs to /mnt/shared-storage-user/evobox-share/songfan/project/verl-agent-master/outputs/wandb_logs/wandb/rc_grpo_Qwen3_4B_Instruct_alfworld_v1/wandb/offline-run-20260609_173907-merged_rc_grpo_Qwen3_4B_Instruct_alfworld_v1/logs/debug.log
+2026-06-09 17:39:07,489 INFO    MainThread:1089912 [wandb_init.py:setup_run_log_directory():724] Logging internal logs to /mnt/shared-storage-user/evobox-share/songfan/project/verl-agent-master/outputs/wandb_logs/wandb/rc_grpo_Qwen3_4B_Instruct_alfworld_v1/wandb/offline-run-20260609_173907-merged_rc_grpo_Qwen3_4B_Instruct_alfworld_v1/logs/debug-internal.log
+2026-06-09 17:39:07,489 INFO    MainThread:1089912 [wandb_init.py:init():850] calling init triggers
+2026-06-09 17:39:07,489 INFO    MainThread:1089912 [wandb_init.py:init():855] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2026-06-09 17:39:07,490 INFO    MainThread:1089912 [wandb_init.py:init():898] starting backend
+2026-06-09 17:39:07,490 INFO    MainThread:1089912 [wandb_init.py:init():913] sending inform_init request
+2026-06-09 17:39:07,604 INFO    MainThread:1089912 [wandb_init.py:init():918] backend started and connected
+2026-06-09 17:39:07,605 INFO    MainThread:1089912 [wandb_init.py:init():988] updated telemetry
+2026-06-09 17:39:07,608 INFO    MainThread:1089912 [wandb_init.py:init():1011] communicating run to backend with 90.0 second timeout
+2026-06-09 17:39:07,609 INFO    MainThread:1089912 [wandb_init.py:init():1056] starting run threads in backend
+2026-06-09 17:39:08,206 INFO    MainThread:1089912 [wandb_run.py:_console_start():2554] atexit reg
+2026-06-09 17:39:08,206 INFO    MainThread:1089912 [wandb_run.py:_redirect():2403] redirect: wrap_raw
+2026-06-09 17:39:08,206 INFO    MainThread:1089912 [wandb_run.py:_redirect():2472] Wrapping output streams.
+2026-06-09 17:39:08,206 INFO    MainThread:1089912 [wandb_run.py:_redirect():2495] Redirects installed.
+2026-06-09 17:39:08,207 INFO    MainThread:1089912 [wandb_init.py:init():1094] run started, returning control to user process
+2026-06-09 17:39:08,311 INFO    MainThread:1089912 [wandb_run.py:_finish():2321] finishing run alfworld/merged_rc_grpo_Qwen3_4B_Instruct_alfworld_v1
+2026-06-09 17:39:08,312 INFO    MainThread:1089912 [wandb_run.py:_atexit_cleanup():2520] got exitcode: 0
+2026-06-09 17:39:08,313 INFO    MainThread:1089912 [wandb_run.py:_restore():2502] restore
+2026-06-09 17:39:08,313 INFO    MainThread:1089912 [wandb_run.py:_restore():2508] restore done

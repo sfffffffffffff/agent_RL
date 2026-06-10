@@ -1,0 +1,349 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.13.5
+    cli_version: 0.23.1
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1780999739
+    t:
+      3:
+      - 2
+      - 4
+      - 7
+      - 13
+      - 14
+      - 42
+      - 61
+      4: 3.13.5
+      5: 0.23.1
+      13: linux-x86_64
+    e:
+      7kii46n1e8xchxhkzq79575auxvuwmq3:
+        os: Linux-5.10.25-nvidia-gpu-x86_64-with-glibc2.35
+        python: CPython 3.13.5
+        started_at: '2026-06-09T10:08:59.900727Z'
+        args:
+        - --root
+        - outputs/wandb_logs/wandb
+        program: /mnt/shared-storage-user/evobox-share/songfan/project/verl-agent-master/try.py
+        code_path: try.py
+        code_path_local: try.py
+        root: outputs/wandb_logs/wandb/gigpo_Qwen3_4B_Instruct_webshop_small
+        host: sfsf
+        executable: /root/miniconda3/bin/python3
+        cpu_count: 8
+        cpu_count_logical: 8
+        disk:
+          /:
+            total: '107321753600'
+            used: '83408572416'
+        memory:
+          total: '17070460928'
+        writer_id: 7kii46n1e8xchxhkzq79575auxvuwmq3
+    m:
+    - 1: merged_step
+      6:
+      - 3
+    - 1: prompt_length/min
+      5: 1
+      6:
+      - 1
+    - 1: perf/max_memory_allocated_gb
+      5: 1
+      6:
+      - 1
+    - 1: response_length/max
+      5: 1
+      6:
+      - 1
+    - 1: prompt_length/max
+      5: 1
+      6:
+      - 1
+    - 1: actor/ppo_kl
+      5: 1
+      6:
+      - 1
+    - 1: episode/reward/min
+      5: 1
+      6:
+      - 1
+    - 1: perf/time_per_step
+      5: 1
+      6:
+      - 1
+    - 1: training/rollout_probs_diff_mean
+      5: 1
+      6:
+      - 1
+    - 1: actor/kl_loss
+      5: 1
+      6:
+      - 1
+    - 1: timing_s/gen
+      5: 1
+      6:
+      - 1
+    - 1: global_seqlen/mean
+      5: 1
+      6:
+      - 1
+    - 1: timing_s/reward
+      5: 1
+      6:
+      - 1
+    - 1: training/rollout_probs_diff_std
+      5: 1
+      6:
+      - 1
+    - 1: critic/returns/mean
+      5: 1
+      6:
+      - 1
+    - 1: global_seqlen/min
+      5: 1
+      6:
+      - 1
+    - 1: response_length/min
+      5: 1
+      6:
+      - 1
+    - 1: actor/entropy_loss
+      5: 1
+      6:
+      - 1
+    - 1: actor/pg_clipfrac
+      5: 1
+      6:
+      - 1
+    - 1: perf/throughput
+      5: 1
+      6:
+      - 1
+    - 1: perf/max_memory_reserved_gb
+      5: 1
+      6:
+      - 1
+    - 1: timing_s/adv
+      5: 1
+      6:
+      - 1
+    - 1: timing_per_token_ms/gen
+      5: 1
+      6:
+      - 1
+    - 1: episode/valid_action_ratio
+      5: 1
+      6:
+      - 1
+    - 1: critic/rewards/min
+      5: 1
+      6:
+      - 1
+    - 1: training/epoch
+      5: 1
+      6:
+      - 1
+    - 1: critic/score/mean
+      5: 1
+      6:
+      - 1
+    - 1: critic/score/min
+      5: 1
+      6:
+      - 1
+    - 1: episode/webshop_task_score (not success_rate)
+      5: 1
+      6:
+      - 1
+    - 1: global_seqlen/balanced_min
+      5: 1
+      6:
+      - 1
+    - 1: training/rollout_probs_diff_max
+      5: 1
+      6:
+      - 1
+    - 1: global_seqlen/max
+      5: 1
+      6:
+      - 1
+    - 1: global_seqlen/minmax_diff
+      5: 1
+      6:
+      - 1
+    - 1: timing_per_token_ms/ref
+      5: 1
+      6:
+      - 1
+    - 1: response_length/mean
+      5: 1
+      6:
+      - 1
+    - 1: prompt_length/mean
+      5: 1
+      6:
+      - 1
+    - 1: episode/length/max
+      5: 1
+      6:
+      - 1
+    - 1: critic/returns/min
+      5: 1
+      6:
+      - 1
+    - 1: response_length/clip_ratio
+      5: 1
+      6:
+      - 1
+    - 1: perf/total_num_tokens
+      5: 1
+      6:
+      - 1
+    - 1: timing_s/update_actor
+      5: 1
+      6:
+      - 1
+    - 1: timing_per_token_ms/adv
+      5: 1
+      6:
+      - 1
+    - 1: episode/length/min
+      5: 1
+      6:
+      - 1
+    - 1: critic/rewards/mean
+      5: 1
+      6:
+      - 1
+    - 1: timing_s/ref
+      5: 1
+      6:
+      - 1
+    - 1: prompt_length/clip_ratio
+      5: 1
+      6:
+      - 1
+    - 1: timing_s/step
+      5: 1
+      6:
+      - 1
+    - 1: critic/advantages/max
+      5: 1
+      6:
+      - 1
+    - 1: critic/score/max
+      5: 1
+      6:
+      - 1
+    - 1: actor/pg_clipfrac_lower
+      5: 1
+      6:
+      - 1
+    - 1: timing_s/old_log_prob
+      5: 1
+      6:
+      - 1
+    - 1: perf/cpu_memory_used_gb
+      5: 1
+      6:
+      - 1
+    - 1: global_seqlen/balanced_max
+      5: 1
+      6:
+      - 1
+    - 1: episode/reward/mean
+      5: 1
+      6:
+      - 1
+    - 1: episode/tool_call_count/mean
+      5: 1
+      6:
+      - 1
+    - 1: episode/reward/max
+      5: 1
+      6:
+      - 1
+    - 1: timing_per_token_ms/update_actor
+      5: 1
+      6:
+      - 1
+    - 1: actor/grad_norm
+      5: 1
+      6:
+      - 1
+    - 1: episode/length/mean
+      5: 1
+      6:
+      - 1
+    - 1: actor/pg_loss
+      5: 1
+      6:
+      - 1
+    - 1: critic/rewards/max
+      5: 1
+      6:
+      - 1
+    - 1: step
+      5: 1
+      6:
+      - 1
+    - 1: training/global_step
+      5: 1
+      6:
+      - 1
+    - 1: critic/advantages/min
+      5: 1
+      6:
+      - 1
+    - 1: episode/success_rate
+      5: 1
+      6:
+      - 1
+    - 1: critic/returns/max
+      5: 1
+      6:
+      - 1
+    - 1: perf/mfu/actor
+      5: 1
+      6:
+      - 1
+    - 1: actor/kl_coef
+      5: 1
+      6:
+      - 1
+    - 1: actor/lr
+      5: 1
+      6:
+      - 1
+    - 1: critic/advantages/mean
+      5: 1
+      6:
+      - 1
+    - 1: val/text/tool_call_count/mean
+      5: 1
+      6:
+      - 1
+    - 1: val/success_rate
+      5: 1
+      6:
+      - 1
+    - 1: val/text/test_score
+      5: 1
+      6:
+      - 1
+    - 1: val/webshop_task_score (not success_rate)
+      5: 1
+      6:
+      - 1
+    - 1: timing_s/testing
+      5: 1
+      6:
+      - 1
+    - 1: timing_s/save_checkpoint
+      5: 1
+      6:
+      - 1
